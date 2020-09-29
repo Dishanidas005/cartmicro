@@ -43,3 +43,26 @@ G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Pro
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.yaml
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\appsettings.json
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.exe
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.yaml
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.deps.json
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.json
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.runtimeconfig.dev.json
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.dll
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.pdb
+G:\RetailProductCTS\CartModule\Cart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csprojAssemblyReference.cache
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CoreCompileInputs.cache
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.MvcApplicationPartsAssemblyInfo.cache
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfoInputs.cache
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.AssemblyInfo.cs
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.RazorTargetAssemblyInfo.cache
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.csproj.CopyComplete
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.Manifest.cache
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\staticwebassets\Cart.StaticWebAssets.xml
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.dll
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
+G:\RetailProductCTS\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache
