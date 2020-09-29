@@ -16,7 +16,7 @@ namespace Cart.Controllers
     [ApiController]
     public class CartController : ControllerBase
     {
-        Uri baseAddress = new Uri("http://40.76.128.109");
+        Uri baseAddress = new Uri("http://52.150.34.110/");
         HttpClient client;
         ICartItemRepo icart;
         public CartController(ICartItemRepo _db)
